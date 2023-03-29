@@ -6,9 +6,3 @@ Contact me:
 
 * e@epliar.com
 * epliar@v2fly.org
-
-== Overview
-
-image::https://github-readme-stats.vercel.app/api?username=EpLiar&show_icons=true[stats]
-
-
